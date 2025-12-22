@@ -160,10 +160,10 @@ def start_ui():
 
     try:
         choice = input("🧠 Choose your Attack Mode (1-6): ").strip()
-        if choice == "6":
-         os.system('xdg-open https://t.me/+n-KPxPtkjiI1M2I1 ')
-        print("👋 Exiting...")
-        return
+       # if choice == "6":
+        # os.system('xdg-open https://t.me/+n-KPxPtkjiI1M2I1 ')
+       # print("👋 Exiting...")
+       # return
 
           
           
