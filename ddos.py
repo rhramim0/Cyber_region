@@ -26,7 +26,7 @@ def show_intro():
     print("\033[94m")
     print("""_______________________________________________
 Wellcome to Our Tools🔥
-\033[1;32mThis Tools Developer By Team RF Cyber Force
+\033[1;32mThis Tools Developer By Team CR Cyber Regin
 __________________________________________________
 ||||||||                            ||||||||
 ||||||||                            ||||||||
