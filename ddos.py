@@ -33,12 +33,12 @@ __________________________________________________
 ||||||||                            ||||||||
 ||||||||                            ||||||||
 ================================================
-\033[1;33mDEVELOPER ▶ MAIM YEAGER
+\033[1;33mDEVELOPER ▶ ABRAR YEAGER
 TEAM ▶︎CR CYBER Reign
 CEO   ▶︎ALIF REHMAN.
-MY SON:-ABRAR YEAGER
+MY SON:-MAIM YEAGER
 CHANNEL  ▶︎CYBER REIGN
-TOOLS NAME ▶︎5X MAIM DDOS TOOLS
+TOOLS NAME ▶︎5X ABRAR DDOS TOOLS
 ================================================""")
     print("\033[0m")
     time.sleep(2)
@@ -50,7 +50,7 @@ def show_banner():
     print("""\033[95m
 ╔═════════════════════════════════════════════════════════╗
   ☠️TEAM CR CYBER REIGN ☠️               
- 🔥 Coded by: MAIM YEAGER| Proxy + Multi-Vector Engine 🔥    ║
+ 🔥 Coded by: ABRAR YEAGER| Proxy + Multi-Vector Engine 🔥    ║
 ╠═════════════════════════════════════════════════\033[0m
 """.format(NUM_THREADS))
     time.sleep(1)
